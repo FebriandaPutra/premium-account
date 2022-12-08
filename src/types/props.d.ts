@@ -1,0 +1,3 @@
+type EditSongProps = {
+  id: number;
+}
